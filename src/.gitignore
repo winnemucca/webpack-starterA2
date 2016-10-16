@@ -1,0 +1,9 @@
+typings
+node_modules
+jspm_packages
+.vs
+**/*.sou
+**/*.user
+bin
+obj
+packages
